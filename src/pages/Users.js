@@ -20,7 +20,7 @@ const Users = () => {
 
   return (
     <div>
-      <h1>Users</h1>
+      <h1>Generador de perfiles falsos</h1>
       {users.map((user, index) => (
         <div key={index} style={{ border: '1px solid #ddd', padding: '10px', marginBottom: '10px' }}>
           <img src={user.picture.large} alt="User" style={{ borderRadius: '50%' }} />
