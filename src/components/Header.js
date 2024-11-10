@@ -5,9 +5,9 @@ import './Header.css';
 
 const Header = () => (
   <nav>
-    <Link to="/">Home</Link>
-    <Link to="/about">About</Link>
-    <Link to="/users">Users</Link>
+    <Link to="/">visor 3d</Link>
+    <Link to="/about">juego 3d</Link>
+    <Link to="/users">perfiles con ia falsos</Link>
   </nav>
 );
 
